@@ -144,10 +144,10 @@ body {
     overflow: auto;
   }
   
-  .work:nth-child(even) {
+   .work:nth-child(even) {
     margin-right: 40px;
-  }
-  
+  } 
+   
   .work img {
     width: 100%;
     border: 0 none;
